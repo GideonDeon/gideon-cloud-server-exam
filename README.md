@@ -72,8 +72,10 @@ app.listen(PORT, () => {
 7.  ACCESS
     - Public IP: http://13.42.37.199/
 
-![Screen_shot_1](https://github.com/user-attachments/assets/70d73880-cf03-472d-848d-f5524dad2891)
-![Screen_shot_2](https://github.com/user-attachments/assets/1652a7ee-5390-4072-bb92-38354852c684)
+![Screen_shot_1](https://github.com/user-attachments/assets/b1a4ea54-37a7-4c05-93f3-69314fcb2002)  
+
+![Screen_shot_2](https://github.com/user-attachments/assets/331af5d3-0430-4381-a082-cd5605454fc9)
+
 
 Tools & Technologies
 - Ubuntu 22.04 (EC2)
